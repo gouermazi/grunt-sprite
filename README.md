@@ -1,0 +1,2 @@
+# grunt-sprite
+grunt-sprite
